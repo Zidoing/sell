@@ -9,7 +9,6 @@ spring:
 
 
 server:
-  servlet:
-    context-path: /sell
+  context-path: /sell
 
 
